@@ -33,7 +33,7 @@ Typically, this area is used to provide steps to reproduce for reviewers/testers
 
 1. 
 
-## 🚀 Dependency <!-- Optional -->
+## 🚀 Dependencies <!-- Optional -->
 
 <!-- 
 This section is for specifying dependencies that need to be merged before this one. 
