@@ -16,10 +16,6 @@ This checklist is for items the PR author wants reviewers and/or testers to veri
 Please specify whether the checklist is for reviewers or QAs.
 -->
 
-**FOR REVIEWERS**
-
-- [ ] xxx
-
 **FOR QA**
 
 - [ ] xxx
