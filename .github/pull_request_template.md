@@ -12,7 +12,7 @@ Asana Link:
 ## 🔧 Changes  <!-- Optional -->
 <!--
 Please explain any specific changes or important design/implementation points.
-Not required if the changes is simple or has been explained in Asana or the Changes tab.
+Not required if the changes is simple or has been explained in Asana or the 'File Changed' tab.
 -->
 
 ## ☑️ Test case <!-- Required -->
