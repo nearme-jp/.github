@@ -9,25 +9,20 @@ If there isn't an Asana task, please describe the goal and any necessary backgro
 
 Asana Link: 
 
-## ☑️ Checklist <!-- Required -->
-
-<!-- 
-This checklist is for items the PR author wants reviewers and/or testers to verify.
-Please specify whether the checklist is for reviewers or QAs.
+## 🔧 Changes  <!-- Optional -->
+<!--
+Please explain any specific changes or important design/implementation points.
+Not required if the changes is simple or has been explained in Asana or the Changes tab.
 -->
 
-**FOR QA**
+## ☑️ Test case <!-- Required -->
 
-- [ ] xxx
-
-## 📝 Additional Information <!-- Optional -->
-
-<!-- 
-This is a free input area. Use this for any additional information that doesn't fit into other sections. 
-Typically, this area is used to provide steps to reproduce for reviewers/testers.
+<!--
+This section describes the tests performed by engineers.
+Please clearly write the actions and expected values ​​for reproduction.
 -->
 
-1. 
+- [ ] 
 
 ## 🚀 Dependencies <!-- Optional -->
 
