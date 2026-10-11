@@ -1,21 +1,26 @@
+<!-- Describe the final state, not how it got there: no review history, suite counts or process notes -->
 ## 🎯 Goal / Background <!-- Required -->
-<!-- Claims: 1–5 behaviors or properties this change establishes — externally visible meaning, not implementation steps -->
+<!-- Numbered claims (1–5): behaviors this change establishes, not implementation steps -->
 
 Asana Link:
 
-## 🔧 How it works <!-- Optional: skip if obvious -->
-<!-- Causal flow: entry → decision → state change → effect, including failure branches. Name nodes by `path` and function, not line numbers -->
+## 🔧 How it works <!-- Optional: skip when the claims plus the diff make it obvious -->
+<!-- Only what a reader could not derive: which file owns the decision and why. No conditions or line numbers -->
 
 ## 📋 Assumptions <!-- Optional -->
-<!-- One line each: preconditions outside this PR / existing guarantees relied on / known limits not claimed -->
+<!-- One line each: preconditions, guarantees relied on, known limits. Out-of-scope work: link the plan -->
 
 ## ☑️ Test case <!-- Required -->
-<!-- Which test or manual check backs each claim; repro steps and expected values for manual ones. Leave undone items unchecked -->
+<!-- Automated: claim → test file. QA (in Japanese): per observable claim, precondition / action / expected result; otherwise "QA対象外". Leave QA unchecked -->
 
+### Automated
+- [ ]
+
+### QA
 - [ ]
 
 ## 🚀 Dependencies <!-- Optional -->
-<!-- What must merge or deploy first, and in what order -->
+<!-- What must merge or deploy first, in order -->
 
 ## 📷 Screenshots <!-- Optional -->
 
