@@ -12,7 +12,7 @@ Asana Link:
 <!-- One line each: preconditions, guarantees relied on, known limits. Out-of-scope work: link the plan -->
 
 ## ☑️ Test case <!-- Required -->
-<!-- Automated: claim → test file. QA: per observable claim, precondition / action / expected result; say which claims are not observable. Leave QA unchecked -->
+<!-- Automated: claim → test file. QA: one line per observable claim, "<state and action> → <expected>", no "Claim n: precondition/action/expected" labels; name claims that are not observable. Leave QA unchecked -->
 
 ### Automated
 - [ ]
