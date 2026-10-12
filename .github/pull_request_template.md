@@ -1,5 +1,5 @@
 <!-- Describe the final state, not how it got there: no review history, suite counts or process notes -->
-<!-- Prose is bilingual per section: English, then the same content in Japanese. English only where it reads at a glance: title, headings, Asana Link, Automated test lines, Dependencies, Screenshots -->
+<!-- Body in English. The last section, "## 🇯🇵 日本語要約", holds in Japanese: claims condensed to a few lines, decisive assumptions, and the QA steps -->
 ## 🎯 Goal / Background <!-- Required -->
 <!-- Numbered claims (1–5): behaviors this change establishes, not implementation steps -->
 
