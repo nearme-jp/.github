@@ -1,4 +1,5 @@
 <!-- Describe the final state, not how it got there: no review history, suite counts or process notes -->
+<!-- Prose is bilingual per section: English, then the same content in Japanese. English only where it reads at a glance: title, headings, Asana Link, Automated test lines, Dependencies, Screenshots -->
 ## 🎯 Goal / Background <!-- Required -->
 <!-- Numbered claims (1–5): behaviors this change establishes, not implementation steps -->
 
@@ -11,7 +12,7 @@ Asana Link:
 <!-- One line each: preconditions, guarantees relied on, known limits. Out-of-scope work: link the plan -->
 
 ## ☑️ Test case <!-- Required -->
-<!-- Automated: claim → test file. QA (in Japanese): per observable claim, precondition / action / expected result; otherwise "QA対象外". Leave QA unchecked -->
+<!-- Automated: claim → test file. QA: per observable claim, precondition / action / expected result; say which claims are not observable. Leave QA unchecked -->
 
 ### Automated
 - [ ]
