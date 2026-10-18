@@ -1,5 +1,5 @@
 <!-- Describe the final state, not how it got there: no review history, suite counts or process notes -->
-<!-- Body in English. The last section, "## 🇯🇵 日本語要約", holds in Japanese: claims condensed to a few lines, decisive assumptions, and the QA steps -->
+<!-- Body in English. The last section, "## 🇯🇵 日本語要約", holds in Japanese: claims condensed to a few lines, decisive assumptions, and the QA steps condensed (one short line each; the English QA list is the full version) -->
 ## 🎯 Goal / Background <!-- Required -->
 <!-- Numbered claims (1–5): behaviors this change establishes, not implementation steps -->
 
@@ -12,12 +12,8 @@ Asana Link:
 <!-- One line each: preconditions, guarantees relied on, known limits. Out-of-scope work: link the plan -->
 
 ## ☑️ Test case <!-- Required -->
-<!-- Automated: claim → test file. QA: one line per observable claim, "<state and action> → <expected>", no "Claim n: precondition/action/expected" labels; name claims that are not observable. Leave QA unchecked -->
+<!-- QA steps only; automated tests are in the diff. One line per observable claim, "<state and action> → <expected>", no "Claim n: precondition/action/expected" labels; name claims that are not observable. Leave unchecked -->
 
-### Automated
-- [ ]
-
-### QA
 - [ ]
 
 ## 🚀 Dependencies <!-- Optional -->
