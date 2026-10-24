@@ -5,6 +5,8 @@
 <!-- Numbered claims (1–5): behaviors this change establishes, not implementation steps -->
 
 Asana Link:
+Risk: <!-- Required. Tags below or `none` (e.g. `schema, async, payment`); evidence in Assumptions / Test case -->
+<!-- irreversible → schema, data, api | unverifiable → external, config | intricate → async, logic | domain → payment, security, pii, critical -->
 
 ## 🔧 How it works <!-- Optional: skip when the claims plus the diff make it obvious -->
 <!-- Only what a reader could not derive: which file owns the decision and why. No conditions or line numbers -->
